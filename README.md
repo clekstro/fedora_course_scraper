@@ -62,6 +62,4 @@ The script will only download files that are not present.  Should a file fail to
 ## License and Liability
 Use of this script to facilitate the violation of copyright law or for other illegal purposes is strictly forbidden, and you will not hold me liable if you use this script to those ends.
 
-The source code is released under the terms of the MIT License, which is available for your perusal in this repository.
-
-Copyright Curtis Ekstrom, 2014.
+The source code is released under the terms of the MIT License, which is available for your perusal in LICENSE file in this repository.
