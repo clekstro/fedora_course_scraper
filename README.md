@@ -35,18 +35,18 @@ To install casperjs, use npm (to get the latest beta version not yet
 ```bash
 $ npm install -g casperjs
 ```
-```bash
-$ brew install npm
-```
 
 ## Configuration
 
 You must modify the variables contained at the top of the course_scraper.coffee file:
-- FEDORA_SCHOOL_URL (entry point of the script and URL of the school whose course(s) you are scraping).
-- COURSE_TITLE (full name of the course you'd like to scrape)
-- EMAIL
-- PASSWORD
-- DOWNLOAD_DIR (absolute path to folder that will contain downloaded files)
+
+| CONFIGURATION_KEY | USE                                                                              |
+| :---------------- | :--                                                                              |
+| FEDORA_SCHOOL_URL | Entry point of the script and URL of the school whose course(s) you are scraping |
+| COURSE_TITLE      | Full name of the course you'd like to scrape                                     |
+| EMAIL             | Your email address                                                               |
+| PASSWORD          | Your password                                                                    |
+| DOWNLOAD_DIR      | Absolute path to folder that will contain downloaded files                       |
 
 ## Usage
 
